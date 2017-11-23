@@ -3,11 +3,11 @@
 ![ingress jedi](ingress-jedi.jpg)
 
 作者：DannoReg
+XF-CC [2]
 
 原文链接：[FevGames](https://fevgames.net/gray-ingress-jedi/)
-翻译：Agent ID: GangZhao Telegram: ZhaoGang
 
-XF-CC [2]
+翻译：Agent ID: GangZhao Telegram: ZhaoGang
 
 ## 爆炸
 
@@ -52,7 +52,9 @@ Ingress 五周年之际，对数据抓取/位置欺骗的态度几乎到了一�
 Ingress 武士
 
 [1] Jedi 也许应该翻译成绝地武士，这里简称为武士
+
 [2] Ingress X-Faction Communication Cooperative (Ingress 跨阵营通信协调） [Google+](https://plus.google.com/communities/100247825120361901555)
+
 [3] Terms of Service（服务协议） [Ingress Terms of Service](https://www.ingress.com/terms)
 
 注：正文里括号部分是译者加的
