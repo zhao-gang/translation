@@ -2,13 +2,13 @@
 
 ![ingress jedi](ingress-jedi.jpg)
 
-作者：DannoReg
+**作者**：DannoReg
 
 XF-CC [2]
 
-原文链接：[FevGames](https://fevgames.net/gray-ingress-jedi/)
+**原文链接**：[FevGames](https://fevgames.net/gray-ingress-jedi/)
 
-翻译：Agent ID: GangZhao Telegram: ZhaoGang
+**翻译**：Agent ID: GangZhao Telegram: ZhaoGang
 
 ## 爆炸
 
