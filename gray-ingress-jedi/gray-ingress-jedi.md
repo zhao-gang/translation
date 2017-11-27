@@ -54,7 +54,7 @@ Ingress 五周年之际，对数据抓取/位置欺骗的态度几乎达到了�
 
 [1] Jedi 也许应该翻译成绝地武士，这里简称为武士
 
-[2] Ingress X-Faction Communication Cooperative（Ingress 跨阵营通信协调）[XF-CC USA/Canada](https://plus.google.com/communities/100247825120361901555) [XF-CC China](https://plus.google.com/communities/107216461300986029749)
+[2] Ingress X-Faction Communication Cooperative（Ingress 跨阵营通信协调）Google+ 链接：[XF-CC USA/Canada](https://plus.google.com/communities/100247825120361901555) 和 [XF-CC China](https://plus.google.com/communities/107216461300986029749)
 
 [3] Terms of Service（服务协议）[Ingress Terms of Service](https://www.ingress.com/terms)
 
